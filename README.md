@@ -18,7 +18,7 @@ In this section,we will show you how to install household-tactile-atlas on your 
 We used the [RM65](https://develop.realman-robotics.com/robot/robotParameter/RM65OntologyParameters/) robotic arm from realman.
 
 <table> <tr> <td valign="top" style="padding-right:16px;"> <table> <tr> <th>Parameter</th> <th>Value</th> </tr> <tr> <td>Degrees of freedom (DOF)</td> <td>6</td> </tr> <tr> <td>Configuration</td> <td>Humanoid configuration</td> </tr> <tr> <td>Joint brake type</td> <td> Joints 1–3: rigid holding brake<br> Joints 4–6: compliant holding brake </td> </tr> <tr> <td>Working radius (mm)</td> <td> Standard: 610<br> 6-axis force (L): 627<br> 6-axis force (X): 638.5 </td> </tr> <tr> <td>Payload (kg)</td> <td>5</td> </tr> <tr> <td>Weight (kg)</td> <td> Standard: 7.2<br> 6-axis force: 7.3 </td> </tr> <tr> <td>Repeatability (mm)</td> <td>±0.05</td> </tr> <tr> <td>TCP linear speed (m/s)</td> <td>≤1.8</td> </tr> <tr> <td>Typical power (W)</td> <td>≤100</td> </tr>  </tr> </table> </td> <td valign="top"> <img width="442" height="620" alt="61f590e30714788cf4ca5eaab4e22eec" src="https://github.com/user-attachments/assets/9d55a72d-5db5-4e78-8077-1eaf180a2298" /> </td> </tr> </table>
-::contentReference[oaicite:0]{index=0}
+
 
 
 
