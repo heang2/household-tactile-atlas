@@ -11,7 +11,12 @@ This project is part of [Ultra Dimension](https://ultradimension.cn/) Embodied A
 <p align="center">
  <img width="768" height="512" alt="73913d75ec5e11af6beadcd247667c66" src="https://github.com/user-attachments/assets/af42cdc5-2834-4154-8491-a2fb38f03f42" />
 </p>
+
  
+<p align="center">
+https://github.com/user-attachments/assets/8820b985-e9d3-449e-ac58-8d1bb38d6ec8
+</p>
+
 # Installation
 In this section,we will show you how to install household-tactile-atlas on your local machine,or you can [install using Docker](./docs/docker_setup.md).
 # Robot arm information
