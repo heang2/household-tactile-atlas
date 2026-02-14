@@ -15,7 +15,9 @@ This project is part of [Ultra Dimension](https://ultradimension.cn/) Embodied A
  
 
 
-![demo](https://github.com/user-attachments/assets/a2780abe-aaf0-4248-9449-36fe7b6c69b6)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a2780abe-aaf0-4248-9449-36fe7b6c69b6" width="800" />
+</p>
 
 
 
