@@ -13,9 +13,7 @@ This project is part of [Ultra Dimension](https://ultradimension.cn/) Embodied A
 </p>
 
  
-<p align="center">
- https://github.com/user-attachments/assets/8820b985-e9d3-449e-ac58-8d1bb38d6ec8
-</p>
+
 
 # Installation
 In this section,we will show you how to install household-tactile-atlas on your local machine,or you can [install using Docker](./docs/docker_setup.md).
