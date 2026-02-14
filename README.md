@@ -18,21 +18,45 @@ This project is part of [Ultra Dimension](https://ultradimension.cn/) Embodied A
 We used the [RM65](https://develop.realman-robotics.com/robot/robotParameter/RM65OntologyParameters/) robotic arm from realman.
 <table>
   <tr>
-    <td valign="top">
-
-| Parameter | Value |
-|---|---|
-| Degrees of freedom (DOF) | 6 |
-| Configuration | Humanoid configuration |
-| Joint brake type | Joints 1–3: rigid holding brake<br>Joints 4–6: compliant holding brake |
-| Working radius (mm) | Standard: 610<br>6-axis force (L): 627<br>6-axis force (X): 638.5 |
-
+    <td style="vertical-align: top; padding-right: 16px;">
+      <table>
+        <tr>
+          <th>Parameter</th>
+          <th>Value</th>
+        </tr>
+        <tr>
+          <td>Degrees of freedom (DOF)</td>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>Configuration</td>
+          <td>Humanoid configuration</td>
+        </tr>
+        <tr>
+          <td>Joint brake type</td>
+          <td>
+            Joints 1–3: rigid holding brake<br/>
+            Joints 4–6: compliant holding brake
+          </td>
+        </tr>
+        <tr>
+          <td>Working radius (mm)</td>
+          <td>
+            Standard: 610<br/>
+            6-axis force (L): 627<br/>
+            6-axis force (X): 638.5
+          </td>
+        </tr>
+      </table>
     </td>
-    <td valign="top">
-      <img width="442" height="620" alt="61f590e30714788cf4ca5eaab4e22eec" src="https://github.com/user-attachments/assets/9d55a72d-5db5-4e78-8077-1eaf180a2298" />
+
+    <td style="vertical-align: top;">
+      <img width="442" height="620" alt="61f590e30714788cf4ca5eaab4e22eec"
+        src="https://github.com/user-attachments/assets/9d55a72d-5db5-4e78-8077-1eaf180a2298" />
     </td>
   </tr>
 </table>
+
 
 
 
