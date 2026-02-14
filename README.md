@@ -13,7 +13,7 @@ This project is part of [Ultra Dimension](https://ultradimension.cn/) Embodied A
 </p>
  
 # Installation
-
+In this section,we will show you how to install household-tactile-atlas on your local machine,or you can [install using Docker](./docs/docker_setup.md).
 # Robot arm information
 We used the [RM65](https://develop.realman-robotics.com/robot/robotParameter/RM65OntologyParameters/) robotic arm from realman.
 
