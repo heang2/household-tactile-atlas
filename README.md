@@ -9,8 +9,8 @@ In this repo，you can find the code and database of the household-tactile-atlas
 This project is part of [Ultra Dimension](https://ultradimension.cn/) Embodied AI Program.
 
 <p align="center">
-
-</p>
  <img width="768" height="512" alt="73913d75ec5e11af6beadcd247667c66" src="https://github.com/user-attachments/assets/af42cdc5-2834-4154-8491-a2fb38f03f42" />
+</p>
+ 
 # Installation
 
