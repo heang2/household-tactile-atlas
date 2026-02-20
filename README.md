@@ -6,7 +6,8 @@
 A tactile dataset for household material recognition via robotic palpation.
 In this repo，you can find the code and database of the household-tactile-atlas.
 
-This project is part of [Ultra Dimension](https://ultradimension.cn/) Embodied AI Program.
+This project is part of [Ultra Dimension](https://ultradimension.cn/) Embodied AI Program，You can find other project [here](https://ultradimension.cn/#/products).
+
 For Project Page,Click [here](https://heang2.github.io/household-tactile-atlas-pages/).
 
 <p align="center">
