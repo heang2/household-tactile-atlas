@@ -44,9 +44,7 @@ We used the [RM65](https://develop.realman-robotics.com/robot/robotParameter/RM6
 
 If you find the dataset or code useful, please cite:
 
-```
 
-```
 
 ## License
 
